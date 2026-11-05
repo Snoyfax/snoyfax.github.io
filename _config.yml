@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "KiA6FLUnTrIoSgQ5lAL-sLB3V-Kq2XIaQosmfvrCakQQuvxpSTLiHtPBWdYamsID9TDpR7dgsBWOkv80XBzlhA.svg"
   name             : "김동영"
-  pronouns         : # example: "he/him"  
+  pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "부산광역시"
   employer         : "PKNU"
