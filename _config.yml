@@ -23,14 +23,14 @@ repository               : "Snoyfax/snoyfax.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  avatar           : "KiA6FLUnTrIoSgQ5lAL-sLB3V-Kq2XIaQosmfvrCakQQuvxpSTLiHtPBWdYamsID9TDpR7dgsBWOkv80XBzlhA.svg"
+  name             : "김동영"
+  pronouns         : # example: "he/him"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "부산광역시"
+  employer         : "PKNU"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "meer0121@naver.com" 
 
   # Academic websites
   academia         : # URL
