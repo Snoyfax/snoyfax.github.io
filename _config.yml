@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "김동영 / test"
+title                    : "202413065 김동영"
 title_separator          : "-"
 name                     : &name "김동영"
 description              : &description "실습용"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "KiA6FLUnTrIoSgQ5lAL-sLB3V-Kq2XIaQosmfvrCakQQuvxpSTLiHtPBWdYamsID9TDpR7dgsBWOkv80XBzlhA.svg"
   name             : "김동영"
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "test"
   location         : "부산광역시"
   employer         : "PKNU"
   uri              : # URL
